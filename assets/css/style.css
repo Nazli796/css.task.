@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    display:inline-block;
+    width: 160px; ;
+    height: 100px;;
+    background-color:orange ;
+    padding-top: 40px;
+    padding-left: 50px;
+    margin-top: 50px;
+    margin-left:100px;
+}
+div{
+    background-color:green
+}
+p {
+    text-indent: 140px;
+  }
